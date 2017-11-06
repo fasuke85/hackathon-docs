@@ -90,7 +90,7 @@ A request to `https://mcb-hackathon-2017-spv.azure-api.net/bank-a/v1/1/accounts/
 }]
 ```
 
-The transactions are either debited (money is deposited into the account e.g salary or pension), or creditet (money is withdrawn),
+The transactions are either credited (money is deposited into the account e.g salary or pension), or debited (money is withdrawn),
 
 ## Cross-origin requests and backend
 
