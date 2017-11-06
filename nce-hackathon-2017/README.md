@@ -5,10 +5,10 @@
 * [Inspiration / Task / Assignment](InspirationTask.md)
 * The complete documentation of the APIs, snippets, and the possibility to query the endpoints, can be found [here](https://mcb-hackathon-2017-spv.portal.azure-api.net/docs/services/), You get access to the API by either creating an account or by using an existing Facebook login.
 * **TODO (link til eksempel-app, må legges til)**
-* **TODO (link til Cross-origin requests and backend-seksjonen)**
+* [Cross-origin requests and backend](#cross-origin-requests-and-backend)
 
 ## Introduction
-Due to the new EU-directive named PSD2, all banks have to give access to account to third parties. This makes it possible to create applications that for a given customer aggregates information and functionality across all the banks he or she uses.
+Due to the new EU-directive named PSD2, all banks have to give third party access to all accounts. This makes it possible to create applications that for a given customer aggregates information and functionality across all the banks he or she uses.
 
 ## Scenario
 
@@ -38,8 +38,8 @@ A request to `https://mcb-hackathon-2017-spv.azure-api.net/bank-a/v1/1/accounts`
 [
     {
         "id": "1234.0A.00028", // account number, used to query transactions
-        "expected_balance": 3053,
-        "booked_balance": 1992,
+        "expected_balance": 3053, // disponibelt beløp
+        "booked_balance": 1992, // bokført saldo
         "_links": {
             "transactions": "/v1/28/accounts/1234.0A.00028/transactions" // link to transaction-api
         }
