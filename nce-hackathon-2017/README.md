@@ -117,5 +117,11 @@ request({
 
 ```
 
-## Andre API-er og åpne data
-Mange offentlige datasett kan brukes gratis. Se f.eks. http://data.norge.no/. Livar Bergheim from Difi has also published a nice introduction to open data here: https://medium.com/@livar.bergheim/opne-offentlege-data-til-hackathon-d94f4d196950
+## Other available APIs and open data
+Several open data sets can be used free of charge. Data from the public sector in Norway is available at http://data.norge.no/. 
+
+Livar Bergheim from Difi has also published a nice introduction to open data here: https://medium.com/@livar.bergheim/opne-offentlege-data-til-hackathon-d94f4d196950
+
+Norges Bank provides APIs for foreign exchange rates and interest rates at http://www.norges-bank.no/Statistikk/apne-data/tilgjengelige-data/
+
+Finansportalen provides data sets with updated prices for difference product categories for Norwegian banks at https://www.finansportalen.no/andre-valg/feed-urler/
