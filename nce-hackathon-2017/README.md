@@ -116,3 +116,6 @@ request({
 })
 
 ```
+
+## Andre API-er og åpne data
+Mange offentlige datasett kan brukes gratis. Se f.eks. http://data.norge.no/
