@@ -118,4 +118,4 @@ request({
 ```
 
 ## Andre API-er og åpne data
-Mange offentlige datasett kan brukes gratis. Se f.eks. http://data.norge.no/
+Mange offentlige datasett kan brukes gratis. Se f.eks. http://data.norge.no/. Livar Bergheim from Brreg has also published a nice introduction to open data here: https://medium.com/@livar.bergheim/opne-offentlege-data-til-hackathon-d94f4d196950
