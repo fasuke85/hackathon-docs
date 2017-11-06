@@ -124,4 +124,4 @@ Livar Bergheim from Difi has also published a nice introduction to open data her
 
 Norges Bank provides APIs for foreign exchange rates and interest rates at http://www.norges-bank.no/Statistikk/apne-data/tilgjengelige-data/
 
-Finansportalen provides data sets with updated prices for difference product categories for Norwegian banks at https://www.finansportalen.no/andre-valg/feed-urler/
+Finansportalen provides data sets with updated prices for several product categories for Norwegian banks at https://www.finansportalen.no/andre-valg/feed-urler/
