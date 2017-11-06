@@ -8,8 +8,7 @@
 * **TODO (link til Cross-origin requests and backend-seksjonen)**
 
 ## Introduction
-
-Due to the new EU-directive named PSD2, all banks have to share their customer-information and infrastructure with third parties. This makes it possible to create applications that, for a given customer, aggregates information and functionality across all the banks he uses.
+Due to the new EU-directive named PSD2, all banks have to give access to account to third parties. This makes it possible to create applications that for a given customer aggregates information and functionality across all the banks he or she uses.
 
 ## Scenario
 
